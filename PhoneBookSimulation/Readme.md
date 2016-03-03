@@ -1,4 +1,4 @@
 #PhoneBookSimulation
 
-Java/n
-Phone book simulator using a console generated menu
+Java
+##Phone book simulator using a console generated menu
